@@ -1,0 +1,174 @@
+2026-02-24 01:29:46,154 - INFO - Application started
+2026-02-24 01:30:15,318 - INFO - Application started
+2026-02-24 01:30:15,321 - INFO - User input received: hi
+2026-02-24 01:30:15,323 - INFO - Sending text request to Gemini
+2026-02-24 01:30:27,488 - ERROR - Gemini text error: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2026-02-24 01:30:27,489 - INFO - Text response generated successfully
+2026-02-24 01:30:43,614 - INFO - Application started
+2026-02-24 01:30:43,621 - INFO - PDF uploaded for analysis
+2026-02-24 01:30:43,783 - INFO - Sending text request to Gemini
+2026-02-24 01:30:55,769 - ERROR - Gemini text error: 
+  No API_KEY or ADC found. Please either:
+    - Set the `GOOGLE_API_KEY` environment variable.
+    - Manually pass the key with `genai.configure(api_key=my_api_key)`.
+    - Or set up Application Default Credentials, see https://ai.google.dev/gemini-api/docs/oauth for more information.
+2026-02-24 01:30:55,770 - INFO - PDF resume analyzed successfully
+2026-02-24 01:44:01,250 - INFO - Application started
+2026-02-24 01:44:10,739 - INFO - Application started
+2026-02-24 01:44:10,743 - INFO - PDF uploaded for analysis
+2026-02-24 01:44:10,866 - INFO - Sending text request to Gemini
+2026-02-24 01:44:12,016 - ERROR - Gemini text error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-02-24 01:44:12,017 - INFO - PDF resume analyzed successfully
+2026-02-24 01:44:21,819 - INFO - Application started
+2026-02-24 01:44:21,824 - INFO - User input received: what is genai
+2026-02-24 01:44:21,825 - INFO - Sending text request to Gemini
+2026-02-24 01:44:23,062 - ERROR - Gemini text error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-02-24 01:44:23,063 - INFO - Text response generated successfully
+2026-02-24 01:44:23,064 - INFO - PDF uploaded for analysis
+2026-02-24 01:44:23,163 - INFO - Sending text request to Gemini
+2026-02-24 01:44:23,722 - ERROR - Gemini text error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-02-24 01:44:23,723 - INFO - PDF resume analyzed successfully
+2026-02-24 01:46:48,608 - INFO - Application started
+2026-02-24 01:47:26,584 - INFO - Application started
+2026-02-24 01:47:26,590 - INFO - PDF uploaded for analysis
+2026-02-24 01:47:26,751 - INFO - Sending text request to Gemini
+2026-02-24 01:47:27,961 - ERROR - Gemini text error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-02-24 01:47:27,963 - INFO - PDF resume analyzed successfully
+2026-02-24 01:51:26,170 - INFO - Application started
+2026-02-24 01:51:33,271 - INFO - Application started
+2026-02-24 01:51:33,276 - INFO - PDF uploaded for analysis
+2026-02-24 01:51:33,424 - INFO - Sending text request to Gemini
+2026-02-24 01:51:34,336 - ERROR - Gemini text error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-02-24 01:51:34,337 - INFO - PDF resume analyzed successfully
+2026-02-24 01:51:45,122 - INFO - Application started
+2026-02-24 01:51:45,126 - INFO - Chat history cleared
+2026-02-24 01:51:45,129 - INFO - PDF uploaded for analysis
+2026-02-24 01:51:45,248 - INFO - Sending text request to Gemini
+2026-02-24 01:51:45,559 - ERROR - Gemini text error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-02-24 01:51:45,560 - INFO - PDF resume analyzed successfully
+2026-02-24 01:51:48,419 - INFO - Application started
+2026-02-24 01:51:48,422 - INFO - User input received: hi
+2026-02-24 01:51:48,423 - INFO - Sending text request to Gemini
+2026-02-24 01:51:48,771 - ERROR - Gemini text error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-02-24 01:51:48,772 - INFO - Text response generated successfully
+2026-02-24 01:51:48,773 - INFO - PDF uploaded for analysis
+2026-02-24 01:51:48,881 - INFO - Sending text request to Gemini
+2026-02-24 01:51:48,947 - ERROR - Gemini text error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-02-24 01:51:48,947 - INFO - PDF resume analyzed successfully
+2026-02-24 01:51:56,138 - INFO - Application started
+2026-02-24 01:51:56,144 - INFO - User input received: what is genai
+2026-02-24 01:51:56,145 - INFO - Sending text request to Gemini
+2026-02-24 01:51:56,459 - ERROR - Gemini text error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-02-24 01:51:56,460 - INFO - Text response generated successfully
+2026-02-24 01:51:56,461 - INFO - PDF uploaded for analysis
+2026-02-24 01:51:56,590 - INFO - Sending text request to Gemini
+2026-02-24 01:51:56,653 - ERROR - Gemini text error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-02-24 01:51:56,654 - INFO - PDF resume analyzed successfully
+2026-02-24 01:52:46,580 - INFO - Application started
+2026-02-24 01:52:46,587 - INFO - PDF uploaded for analysis
+2026-02-24 01:52:46,718 - INFO - Sending text request to Gemini
+2026-02-24 01:52:46,894 - ERROR - Gemini text error: 400 API key not valid. Please pass a valid API key. [reason: "API_KEY_INVALID"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+, locale: "en-US"
+message: "API key not valid. Please pass a valid API key."
+]
+2026-02-24 01:52:46,895 - INFO - PDF resume analyzed successfully
+2026-02-24 01:59:15,679 - INFO - Application started
+2026-02-24 01:59:21,301 - INFO - Application started
+2026-02-24 01:59:21,304 - INFO - User input received: hi
+2026-02-24 01:59:21,305 - INFO - Sending text request to Gemini
+2026-02-24 01:59:32,094 - INFO - Received response from Gemini
+2026-02-24 01:59:32,095 - INFO - Text response generated successfully
+2026-02-24 02:00:03,783 - INFO - Application started
+2026-02-24 02:00:03,789 - INFO - PDF uploaded for analysis
+2026-02-24 02:00:03,937 - INFO - Sending text request to Gemini
+2026-02-24 02:00:25,899 - INFO - Received response from Gemini
+2026-02-24 02:00:25,900 - INFO - PDF resume analyzed successfully
