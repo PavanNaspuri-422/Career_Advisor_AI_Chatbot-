@@ -1,35 +1,14 @@
-# 🤖 Career Advisor AI Chatbot
+# 🎓 AI Career Advisor Chatbot
 
-A production-ready AI Career Advisor chatbot built using **Google Gemini 2.5 Flash API** and **Streamlit**.
-
-This application provides structured career guidance, skill gap analysis, roadmap generation, resume PDF analysis, and resume image evaluation.
-
----
 
 ## 🔥 Features
 
 ### 🎯 Career Guidance
-- Role comparison (Data Analyst vs Data Scientist vs ML Engineer)
+- Role comparison
 - Skill gap analysis
 - Step-by-step roadmap planning
 - Interview preparation
 - LinkedIn summary generation
-
-### 📄 Resume PDF Analysis
-- Extracts resume content
-- ATS improvement suggestions
-- Resume scoring (0–100)
-- Missing skill detection
-- Structured improvement plan
-
-### 🧠 AI Capabilities
-- Multi-turn conversation memory
-- Structured prompt engineering
-- Domain-specific responses
-- Modular Gemini API wrapper
-- Logging and error handling
-
----
 
 ## 🏗 System Architecture
 
@@ -165,35 +144,4 @@ http://localhost:8501
 streamlit run app.py --server.port 8501 --server.address 0.0.0.0
 ```
 
-Open port 8501 in security group.
 
----
-
-## 🧠 Prompt Engineering Strategy
-
-- Structured system prompts
-- Role-based constraints
-- Domain-specific formatting
-- Reusable prompt templates
-- Multi-turn context preservation
-
----
-
-## 🔐 Security Practices
-
-- No hardcoded API keys
-- Environment-based configuration
-- Modular architecture
-- Logging for debugging
-- Separation of concerns
-
----
-
-
-## 🎯 Ideal Use Cases
-
-- Students planning AI careers
-- Freshers preparing for Data Science roles
-- Resume optimization for tech jobs
-- Interview preparation
-- Skill roadmap planning
